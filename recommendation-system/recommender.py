@@ -2,7 +2,7 @@
 from utils.manhattan import manhattan
 __author__ = 'harry'
 """
-Solution based on the idea  that birds of the same further fly together,
+Solution based on the idea  that Birds of a feather flock together,
 in other words, similar people tend to like similar things.
 Similarity can be likes, habits etc in this lab, we use movie ratings of 'closest neighbors'
 to recommend movies to similar customers
