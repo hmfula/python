@@ -23,9 +23,9 @@ from matplotlib import style
 style.use('fivethirtyeight')
 dataset = {'k':[[1,2],[2,3],[3,1]], 'r':[[6,5],[7,7],[8,6]]}
 """
-To test the algorithm vary the coordinates of the point
-The  algorithm prints its  prediction  some confidence
-E.g if the test is : feature = [5,6]
+To test the algorithm vary the coordinates of the test point.
+The  algorithm prints its  prediction along  with some confidence value
+e.g if the test feature is : feature = [5,6]
 then the result is:
 
 [('r', 3)]
