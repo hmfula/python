@@ -1,5 +1,5 @@
-
 from utils.manhattan import manhattan
+
 __author__ = 'harry'
 """
 Solution based on the idea  that birds of the same feather flock together,
